@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+##  WELCOME TO MY FAB LAB WORLD 
+        "Make Almost Anything!"
 
-You can use the [editor on GitHub](https://github.com/THAFSEERASALAH/thafseerasalah.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###ABOUT ME
+My name is THAFSEERA.K. I am currently pursuing a degree in B.tech Electronics and communication at MESCE Kuttipuram. I am going through my final year of course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email ID :thafsikodaniyil@gmail.com
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###* MY FAB LAB WORLD*
+FabLab – digital fabrication laboratories – were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technology.
 
-```markdown
-Syntax highlighted code block
+The idea was conceived by renowned inventor and scientist Professor Neil Gershenfeld at the prestigious Massachusetts Institute of Technology (MIT). His idea was a simple one: to provide the environment, skills, advanced materials and technology to make things cheaply and quickly anywhere in the world, and to make this available on a local basis to entrepreneurs, students, artists, small businesses and in fact, anyone who wants to create something new or bespoke.
+## _**FAB LAB @ MESCE **_
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/THAFSEERASALAH/thafseerasalah.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+FABLAB is a 3D fabrication lab that has been recently set up at our college. It is completely amazing considering the possibilities of turning imagination to reality. It consists of a lot of machines such as the 3D printer, CNC, laser cutter/engraver and others too. I am in the process of diving into the depths of knowledge of how we could turn one’s imagination to reality. Actually this seems no less than magic. Atleast that is how I feel. So, here I am to share my experience at FABLAB, MESCE. I hope that anyone who goes through this will get an idea about the technology used in a 3D fabrication lab. Well … explore and have fun.
