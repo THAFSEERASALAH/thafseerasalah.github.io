@@ -18,7 +18,7 @@ FabLab – digital fabrication laboratories – were set up to inspire people an
 
 The idea was conceived by renowned inventor and scientist Professor Neil Gershenfeld at the prestigious Massachusetts Institute of Technology (MIT). His idea was a simple one: to provide the environment, skills, advanced materials and technology to make things cheaply and quickly anywhere in the world, and to make this available on a local basis to entrepreneurs, students, artists, small businesses and in fact, anyone who wants to create something new or bespoke.
 ## FAB LAB AT MESCE 
-
+![GitHub Logo](/images/B612_20170826_134534.jpg)
 FABLAB is a 3D fabrication lab that has been recently set up at our college. It is completely amazing considering the possibilities of turning imagination to reality. It consists of a lot of machines such as the 3D printer, CNC, laser cutter/engraver and others too. I am in the process of diving into the depths of knowledge of how we could turn one’s imagination to reality. Actually this seems no less than magic. Atleast that is how I feel. So, here I am to share my experience at FABLAB, MESCE. I hope that anyone who goes through this will get an idea about the technology used in a 3D fabrication lab. Well … explore and have fun.
 # DAY 1
 Day 1 [23-08-2017] went well with the introduction by   Mr. Jaseel Muhammed an overview of how the 21 hrs were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more. we created an account in github.also we get an idea about Rhino.we draw some 3d models. .
