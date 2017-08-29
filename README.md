@@ -1,8 +1,6 @@
 ##  WELCOME TO MY FAB LAB WORLD 
 HI.... ThafseerA here!!!!
-      ##  FAB LAB "Make Almost Anything!"  
-        ![GitHub Logo](/images/ Fab_Lab_logo.svg.png) 
-
+    
 ## ABOUT ME
 I'm THAFSEERA born and raised in MALAPPURAM. I did my plus 2 from P K M M H S S Edarikode and now i'm pursuing my final year B.tech in electronics and communication at M E S college of engineering Kuttipuram
 
@@ -57,15 +55,13 @@ The creation of a 3D printed object is achieved using additive processes. In an 
 3D printing enables you to produce complex (functional) shapes using less material than traditional manufacturing methods.
 ### Ultimaker 2+
 Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendly. Thanks to its support of a wide range of materials, it’s suitable for a huge variety of applications, from prototypes to customized tools. It’s a great all-around 3D printer that delivers consistent results.
-      ![GitHub Logo](/images/B612_20170826_160813.jpg)
+ ![GitHub Logo](/images/B612_20170826_160813.jpg)
  ![GitHub Logo](/images/B612_20170826_160826.jpg)
-  ![GitHub Logo](/images/B612_20170826_162525.jpg)
+ ![GitHub Logo](/images/B612_20170826_162525.jpg)
   ### Cura 
   The world’s most advanced 
 3D printer software
-
 Cura creates a seamless integration between hardware, software and materials for the best 3D printing experience around.
-
 Novices can start printing right away and experts are able to customize 200 settings to achieve the best results for their models
 Optimized profiles for Ultimaker materials
 Supported by a global network of Ultimaker certified service partners
