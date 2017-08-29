@@ -1,6 +1,7 @@
 ##  WELCOME TO MY FAB LAB WORLD 
 HI.... ThafseerA here!!!!
-        FAB LAB "Make Almost Anything!"    ![GitHub Logo](/images/ Fab_Lab_logo.svg.png.png) 
+        FAB LAB "Make Almost Anything!"  
+        ![GitHub Logo](/images/ Fab_Lab_logo.svg.png) 
 
 ## ABOUT ME
 I'm THAFSEERA born and raised in MALAPPURAM. I did my plus 2 from P K M M H S S Edarikode and now i'm pursuing my final year B.tech in electronics and communication at M E S college of engineering Kuttipuram
