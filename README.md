@@ -1,6 +1,6 @@
 ##  WELCOME TO MY FAB LAB WORLD 
 HI.... ThafseerA here!!!!
-        FAB LAB "Make Almost Anything!"  
+      ##  FAB LAB "Make Almost Anything!"  
         ![GitHub Logo](/images/ Fab_Lab_logo.svg.png) 
 
 ## ABOUT ME
@@ -22,9 +22,11 @@ The idea was conceived by renowned inventor and scientist Professor Neil Gershen
 FABLAB is a 3D fabrication lab that has been recently set up at our college. It is completely amazing considering the possibilities of turning imagination to reality. It consists of a lot of machines such as the 3D printer, CNC, laser cutter/engraver and others too. I am in the process of diving into the depths of knowledge of how we could turn one’s imagination to reality. Actually this seems no less than magic. Atleast that is how I feel. So, here I am to share my experience at FABLAB, MESCE. I hope that anyone who goes through this will get an idea about the technology used in a 3D fabrication lab. Well … explore and have fun.
 # DAY 1
 Day 1 [23-08-2017] went well with the introduction by   Mr. Jaseel Muhammed an overview of how the 21 hrs were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more. we created an account in github.also we get an idea about Rhino.we draw some 3d models. .
+  
 
 # DAY 2
 DAY 2 [24-08-2017] we did some work in vinyle cutting machine. 
+  ![GitHub Logo](/images/IMG_20170825_205118_887.jpg ) 
 
 
 ## what is vinyl cutting machine?
@@ -35,6 +37,7 @@ A vinyl cutter (or vinyl plotter) is a computer-controlled plotting device with 
 # DAY 3
 DAY 3 [25-08-2017]. PCB design. introduction about eagle .we did small led blinging circuit.
 ![GitHub Logo](/images/B612_20170826_153224.jpg)
+
 ### about Eagle 
      EAGLE is a scriptable electronic design automation application with schematic capture, printed circuit board layout, auto-router and computer-aided manufacturing features. EAGLE stands for Easily Applicable Graphical Layout Editor (German: Einfach Anzuwendender Grafischer Layout-Editor) and is developed by CadSoft Computer GmbH. 
      EAGLE contains a schematic editor, for designing circuit diagrams. Parts can be placed on many sheets and connected together through ports.
@@ -43,5 +46,38 @@ DAY 3 [25-08-2017]. PCB design. introduction about eagle .we did small led bling
 EAGLE saves Gerber and PostScript layout files and Excellon and Sieb & Meyer drill files. These standard files are accepted by many PCB fabrication companies.
 
 # DAY 4
-DAY 4 [26-08-2017]
-      
+DAY 4 [26-08-2017] 3D printing. by using rhino and cura i did a small work in 3D printing
+### about 3d printing
+3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file.
+
+The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created. Each of these layers can be seen as a thinly sliced horizontal cross-section of the eventual object.
+
+3D printing is the opposite of subtractive manufacturing which is cutting out / hollowing out a piece of metal or plastic with for instance a milling machine.
+
+3D printing enables you to produce complex (functional) shapes using less material than traditional manufacturing methods.
+### Ultimaker 2+
+Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendly. Thanks to its support of a wide range of materials, it’s suitable for a huge variety of applications, from prototypes to customized tools. It’s a great all-around 3D printer that delivers consistent results.
+      ![GitHub Logo](/images/B612_20170826_160813.jpg)
+ ![GitHub Logo](/images/B612_20170826_160826.jpg)
+  ![GitHub Logo](/images/B612_20170826_162525.jpg)
+  ### Cura 
+  The world’s most advanced 
+3D printer software
+
+Cura creates a seamless integration between hardware, software and materials for the best 3D printing experience around.
+
+Novices can start printing right away and experts are able to customize 200 settings to achieve the best results for their models
+Optimized profiles for Ultimaker materials
+Supported by a global network of Ultimaker certified service partners
+Print multiple objects at once with different settings for each object
+Cura supports STL, 3MF and OBJ file formats
+It’s open source and completely free
+Optimized for dual extrusion printing with Ultimaker 3
+    ![GitHub Logo](/images/V502430_20170826_112617.jpg)
+   ## Rhinoceros
+   hinoceros (typically abbreviated Rhino, or Rhino3D) is a commercial 3D computer graphics and computer-aided design (CAD) application software developed by Robert McNeel & Associates; an American, privately held, employee-owned company, that was founded in 1980. Rhinoceros geometry is based on the NURBS mathematical model, which focuses on producing mathematically precise representation of curves and freeform surfaces in computer graphics (as opposed to polygon mesh-based applications).
+
+Rhinoceros is used in processes of computer-aided design (CAD), computer-aided manufacturing (CAM), rapid prototyping, 3D printing and reverse engineering in industries including architecture, industrial design (e.g. automotive design, watercraft design), product design (e.g. jewelry design) as well as for multimedia and graphic design.[2]
+
+Rhinoceros is developed for the Microsoft Windows operating system and OS X. A visual scripting language add-on for Rhino, Grasshopper, is developed by Robert McNeel & Associates.
+# DAY 5
