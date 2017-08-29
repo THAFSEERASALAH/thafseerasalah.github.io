@@ -60,7 +60,7 @@ Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendl
  ![GitHub Logo](/images/B612_20170826_162525.jpg)
   ### Cura 
   The world’s most advanced 
-3D printer software
+ 3D printer software
 Cura creates a seamless integration between hardware, software and materials for the best 3D printing experience around.
 Novices can start printing right away and experts are able to customize 200 settings to achieve the best results for their models
 Optimized profiles for Ultimaker materials
