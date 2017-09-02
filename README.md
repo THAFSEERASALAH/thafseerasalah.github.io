@@ -56,7 +56,9 @@ The creation of a 3D printed object is achieved using additive processes. In an 
 ### Ultimaker 2+
 Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendly. Thanks to its support of a wide range of materials, it’s suitable for a huge variety of applications, from prototypes to customized tools. It’s a great all-around 3D printer that delivers consistent results.
  ![GitHub Logo](/images/B612_20170826_160813.jpg)
+ 
  ![GitHub Logo](/images/B612_20170826_160826.jpg)
+ 
  ![GitHub Logo](/images/B612_20170826_162525.jpg)
   ### Cura 
   The world’s most advanced 
