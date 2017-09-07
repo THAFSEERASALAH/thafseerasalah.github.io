@@ -2,20 +2,47 @@
 HI.... ThafseerA here!!!!
     
 ## ABOUT ME
-I'm THAFSEERA born and raised in MALAPPURAM. I did my plus 2 from P K M M H S S Edarikode and now i'm pursuing my final year B.tech in electronics and communication at M E S college of engineering Kuttipuram
-
+I'm THAFSEERA born and raised in MALAPPURAM. I did my plus 2 from P K M M H S S Edarikode and now i'm pursuing my final year B.tech in electronics and communication at M E S college of engineering Kuttipuram.I have a beautiful family of five members.
+My hobbies including to help my mother in her some time work and listining music.
 My strengths are my attitude that i like to take challenges that I CAN do it,my way of thinking that i take both success and failure in a balanced manner..
 I dont like to say weakness but i like to say scope for improvement that is i wont leave any ask in completely,i believe in my self and my hard work and i want perfection in every thing.
+
 Email ID :thafsikodaniyil@gmail.com
+fb id    :Thafseerasalah
 ## WHAT IS FAB LAB
    FabLab – digital fabrication laboratories – were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technology.
     The idea was conceived by renowned inventor and scientist Professor Neil Gershenfeld at the prestigious Massachusetts Institute of Technology (MIT). His idea was a simple one: to provide the environment, skills, advanced materials and technology to make things cheaply and quickly anywhere in the world, and to make this available on a local basis to entrepreneurs, students, artists, small businesses and in fact, anyone who wants to create something new or bespoke.
 ## FAB LAB AT MESCE 
 ![GitHub Logo](/images/B612_20170826_134534.jpg)
 FABLAB is a 3D fabrication lab that has been recently set up at our college. It is completely amazing considering the possibilities of turning imagination to reality. It consists of a lot of machines such as the 3D printer, CNC, laser cutter/engraver and others too. I am in the process of diving into the depths of knowledge of how we could turn one’s imagination to reality. Actually this seems no less than magic. Atleast that is how I feel. So, here I am to share my experience at FABLAB, MESCE. I hope that anyone who goes through this will get an idea about the technology used in a 3D fabrication lab. Well … explore and have fun.
-# DAY 1
-Day 1 [23-08-2017] went well with the introduction by   Mr. Jaseel Muhammed an overview of how the 21 hrs were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more. we created an account in github.also we get an idea about Rhino.we draw some 3d models. .
-  
+
+
+# SOFTWARE TOOLS FOR FABLAB
+## EAGLE
+Eagle Software ascertains itself as a paramount institution in provid ing software products and solutions for Health Care, Micro-Finance, Insurance and Immigration. We develop mobile phone games, online lott ery applications and deliver value added services for mobile phone ga mes. We deliver end-to-end solutions for web and desktop applications based on Smart Card / RFID Solutionstechnology.
+
+
+## CURA
+ Cura creates a seamless integration between hardware, software and mate rials for the best 3D printing experience around. Novices can start printing right away and experts are able to customize 200 settings to achieve the best results for their models Optimized profiles for Ultimaker materials Supported by a global network of Ultimaker certified service partners Print multiple objects at once with different settings for each object Cura supports STL, 3MF and OBJ file formats It’s open source and completely free Optimized for dual extrusion printing with Ultimaker 3
+
+
+## AUTOCAD
+ AutoCAD is a commercial computer-aided design (CAD) and drafting software application. Developed and marketed by Autodesk,[1] AutoCAD was first rel eased in December 1982 as a desktop app running on microcomputers with in ternal graphics controllers.[2] Prior to the introduction of AutoCAD, most commercial CAD programs ran on mainframe computers or minicomputers, with each CAD operator (user) working at a separate graphics terminal.[3] Since 2010, AutoCAD was released as a mobile- and web app as well, marketed as AutoCAD 360.
+
+
+## SOLIDWORKS
+ SOLIDWORKS solutions cover all aspects of your product development process with a seamless, integrated workflow—design, verification, sustainable des ign, communication and data management. The intuitive design interface and integrated software work together and give you the freedom to focus on inn ovation, thus giving you the possibility to span multiple disciplines with ease.
+
+
+
+## RHINOCEROS
+ Rhinoceros, also known as Rhino or Rhino3D, is a 3D CAD modeling software package that enables you to accurately model your designs ready for rende ring, animation, drafting, engineering, analysis, and manufacturing. Rhino is a free-form NURBS surface modeler. With Rhino, you can create, edit, an alyze, and translate NURBS curves, surfaces, and solids in Windows or Mac environments. There are no limitations on complexity, degree, or size of the model you design.
+
+
+## CUTSTUDIO
+ Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof tware for Windows that allows you to cut any TrueType font, any SVG image a nd any design you want using an electronic cutting machine ( vinyl cutter a nd cutting plotter). Works with your installed TrueType and OpenType, and Di ngbat/Wingding fonts. This viny cutting software can import various file fo rmats but also provides a full set of drawing and editing tools to create yo ur own designs for cutting.
+  # DAY 1 [23-08-2017] 
+ went well with the introduction by   Mr. Jaseel Muhammed an overview of how the 21 hrs were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more. we created an account in github.also we get an idea about Rhino.we draw some 3d models.
 
 # DAY 2
 DAY 2 [24-08-2017] we did some work in vinyle cutting machine. 
@@ -74,3 +101,4 @@ Rhinoceros is used in processes of computer-aided design (CAD), computer-aided m
 Rhinoceros is developed for the Microsoft Windows operating system and OS X. A visual scripting language add-on for Rhino, Grasshopper, is developed by Robert McNeel & Associates.
 # DAY 5
 ![LASER CUTTING.JET MODEL](/IMAGES/L1)
+![alt text](L1.png "Logo Title Text 1")
