@@ -55,11 +55,8 @@ The creation of a 3D printed object is achieved using additive processes. In an 
 3D printing enables you to produce complex (functional) shapes using less material than traditional manufacturing methods.
 ### Ultimaker 2+
 Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendly. Thanks to its support of a wide range of materials, it’s suitable for a huge variety of applications, from prototypes to customized tools. It’s a great all-around 3D printer that delivers consistent results.
- ![GitHub Logo](/images/B612_20170826_160813.jpg)
  
- ![GitHub Logo](/images/B612_20170826_160826.jpg)
- 
- ![GitHub Logo](/images/B612_20170826_162525.jpg)
+ ![3D PRINDING.LITTLE SHIP](/images/B612_20170826_162525.jpg)
   ### Cura 
   The world’s most advanced 
  3D printer software
@@ -79,4 +76,4 @@ Rhinoceros is used in processes of computer-aided design (CAD), computer-aided m
 
 Rhinoceros is developed for the Microsoft Windows operating system and OS X. A visual scripting language add-on for Rhino, Grasshopper, is developed by Robert McNeel & Associates.
 # DAY 5
-![GitHub Logo](/images/L1.jpg)
+![LASER CUTTING.JET MODEL](/images/L1.jpg)
