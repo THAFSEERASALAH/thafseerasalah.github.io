@@ -22,7 +22,7 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 
 
 # SOFTWARE TOOLS FOR FABLAB
- ## Cura 
+## Cura 
   The world’s most advanced 
  3D printer software
 Cura creates a seamless integration between hardware, software and materials for the best 3D printing experience around.
@@ -33,8 +33,8 @@ Print multiple objects at once with different settings for each object
 Cura supports STL, 3MF and OBJ file formats
 It’s open source and completely free
 Optimized for dual extrusion printing with Ultimaker 3
-    ![GitHub Logo](/images/V502430_20170826_112617.jpg)
-   ## Rhinoceros
+   
+## Rhinoceros
    Rhinoceros (typically abbreviated Rhino, or Rhino3D) is a commercial 3D computer graphics and computer-aided design (CAD) application software developed by Robert McNeel & Associates; an American, privately held, employee-owned company, that was founded in 1980. Rhinoceros geometry is based on the NURBS mathematical model, which focuses on producing mathematically precise representation of curves and freeform surfaces in computer graphics (as opposed to polygon mesh-based applications).
 
 Rhinoceros is used in processes of computer-aided design (CAD), computer-aided manufacturing (CAM), rapid prototyping, 3D printing and reverse engineering in industries including architecture, industrial design (e.g. automotive design, watercraft design), product design (e.g. jewelry design) as well as for multimedia and graphic design.[2]
@@ -55,20 +55,19 @@ Eagle Software ascertains itself as a paramount institution in provid ing softwa
 ## CUTSTUDIO
  Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof tware for Windows that allows you to cut any TrueType font, any SVG image a nd any design you want using an electronic cutting machine ( vinyl cutter a nd cutting plotter). Works with your installed TrueType and OpenType, and Di ngbat/Wingding fonts. This viny cutting software can import various file fo rmats but also provides a full set of drawing and editing tools to create yo ur own designs for cutting.
  
-  # DAY 1 [23-08-2017] 
+# DAY 1 [23-08-2017] 
  went well with the introduction by   Mr. Jaseel Muhammed an overview of how the 21 hrs were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more. we created an account in github.also we get an idea about Rhino.we draw some 3d models.
 ## INTRODUCTION OF MACHINES
-. 3D PRINTER
-.. VINYLE CUTTER
-... LASER CUTTING MACHINE
-.... ELECTRONICS PRODUCTION AND CNC
+* 3D PRINTER
 
+* VINYLE CUTTER
 
-# DAY 2
-DAY 2 [24-08-2017] we did some work in vinyle cutting machine. 
+* LASER CUTTING MACHINE 
 
-  ![GitHub Logo](/images/IMG_20170825_205118_887.jpg ) 
+* ELECTRONICS PRODUCTION AND CNC
 
+# DAY 2[24-08-2017]  
+we did some work in vinyle cutting machine. 
 
 ## what is vinyl cutting machine?
 
@@ -77,8 +76,8 @@ DAY 2 [24-08-2017] we did some work in vinyle cutting machine.
  A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).
 A symbol / label can be produced using a Vinyl Cutter such as a ‘Sticker Machine’ or a ‘Craftrobo’. These machines are controlled by a computer and operate similar to a printer. Essentially they cut out shapes in adhesive vinyl. The vinyl can then be stuck onto almost any surface.
 A vinyl cutter (or vinyl plotter) is a computer-controlled plotting device with a blade instead of a pen. A vector based design is created in a software program (usually Adobe Illustrator or Corel Draw) and then sent to the cutter where it cuts along the vector paths laid out in the design. The cutter is capable of moving the blade on an X and Y axis over the material, cutting it into any shape imaginable. Since the vinyl material comes in long rolls, projects with significant length like banners or billboards can be easily cut as well. The one major limitation with vinyl cutters is that they can only cut shapes from solid colors of vinyl. A design with multiple colors must have each color cut separately and then layered on top of each other as it is applied to the substrate. Also, since the shapes are cut out of solid colors, photographs and gradients cannot be reproduced with a standalone cutter.
-# DAY 3
-DAY 3 [25-08-2017]. PCB design. introduction about eagle .we did small LED blinging circuit.
+# DAY 3 [25-08-2017].
+ PCB design. introduction about eagle .we did small LED blinging circuit.
 
 ![PCB DESIGHN](/images/B612_20170826_153224.jpg)
 
