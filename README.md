@@ -70,7 +70,8 @@ Eagle Software ascertains itself as a paramount institution in provid ing softwa
 we did some work in vinyle cutting machine.
 
 
-![VINYLE CUTTER](/images/L1.jpg)
+
+
 ## what is vinyl cutting machine?
 
 ![VINYLE CUTTER](/images/B612_20170826_134255.jpg)
@@ -102,5 +103,5 @@ Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendl
  ![3D PRINDING.LITTLE SHIP](/images/B612_20170826_162525.jpg)
  
 # DAY 5
-![3D PRINDING.LITTLE SHIP](/images/L1.jpg)
 
+![JET WORK BY LASER](/images/L1.jpg)
