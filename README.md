@@ -67,9 +67,11 @@ Eagle Software ascertains itself as a paramount institution in provid ing softwa
 * ELECTRONICS PRODUCTION AND CNC
 
 # DAY 2[24-08-2017]  
-we did some work in vinyle cutting machine.
+I did A SMALL work in vinyle cutting machine.
 
 
+
+![STICKER](/images/V1.jpg)
 
 
 ## what is vinyl cutting machine?
@@ -98,10 +100,13 @@ The creation of a 3D printed object is achieved using additive processes. In an 
 3D printing enables you to produce complex (functional) shapes using less material than traditional manufacturing methods.
 
 ## Ultimaker 2+
+![Ultimaker 2+ 3D PRINTING MACHINE](/images/3d2.jpg)
 Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendly. Thanks to its support of a wide range of materials, it’s suitable for a huge variety of applications, from prototypes to customized tools. It’s a great all-around 3D printer that delivers consistent results.
+## MY WORK 
+![LITTLE SHIP-3D PRINTING](/images/3d3.jpg)
  
- ![3D PRINDING.LITTLE SHIP](/images/B612_20170826_162525.jpg)
  
 # DAY 5
-
+I did a small work in LASER CUTTING MACHINE. By using the software rhinoceros i draw a model of jet which contain 4 parts. by using laser cutting machine i got 4 parts in hard board.
+![](/images/L2.jpg)
 ![JET WORK BY LASER](/images/L1.jpg)
