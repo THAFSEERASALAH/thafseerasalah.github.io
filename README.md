@@ -101,7 +101,7 @@ The creation of a 3D printed object is achieved using additive processes. In an 
 
 ## Ultimaker 2+
 ![Ultimaker 2+ 3D PRINTING MACHINE](/images/3d2.jpg)
-Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendly. Thanks to its support of a wide range of materials, it’s suitable for a huge variety of applications, from prototypes to customized tools. It’s a great all-around 3D printer that delivers consistent results.
+Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendly. it’s suitable for a huge variety of applications, from prototypes to customized tools. It’s a great all-around 3D printer that delivers consistent results.
 ## MY WORK 
 ![LITTLE SHIP-3D PRINTING](/images/3d3.jpg)
  
