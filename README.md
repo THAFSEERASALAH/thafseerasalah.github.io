@@ -24,6 +24,18 @@ fb id    :Thafseerasalah
 FABLAB is a 3D fabrication lab that has been recently set up at our college. It is completely amazing considering the possibilities of turning imagination to reality. It consists of a lot of machines such as the 3D printer, CNC, laser cutter/engraver and others too. I am in the process of diving into the depths of knowledge of how we could turn one’s imagination to reality. Actually this seems no less than magic. Atleast that is how I feel. So, here I am to share my experience at FABLAB, MESCE. I hope that anyone who goes through this will get an idea about the technology used in a 3D fabrication lab. Well … explore and have fun.
 
 
+# DAY 1 [23-08-2017] 
+ went well with the introduction by   Mr. Jaseel Muhammed an overview of how the 21 hrs were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more. we created an account in github.also we get an idea about Rhino.we draw some 3d models.
+## INTRODUCTION OF MACHINES
+* 3D PRINTER
+
+* VINYLE CUTTER
+
+* LASER CUTTING MACHINE 
+
+* ELECTRONICS PRODUCTION AND CNC
+
+
 # SOFTWARE TOOLS FOR FABLAB
 ## Cura 
   The world’s most advanced 
@@ -58,16 +70,6 @@ Eagle Software ascertains itself as a paramount institution in provid ing softwa
 ## CUTSTUDIO
  Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof tware for Windows that allows you to cut any TrueType font, any SVG image a nd any design you want using an electronic cutting machine ( vinyl cutter a nd cutting plotter). Works with your installed TrueType and OpenType, and Di ngbat/Wingding fonts. This viny cutting software can import various file fo rmats but also provides a full set of drawing and editing tools to create yo ur own designs for cutting.
  
-# DAY 1 [23-08-2017] 
- went well with the introduction by   Mr. Jaseel Muhammed an overview of how the 21 hrs were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more. we created an account in github.also we get an idea about Rhino.we draw some 3d models.
-## INTRODUCTION OF MACHINES
-* 3D PRINTER
-
-* VINYLE CUTTER
-
-* LASER CUTTING MACHINE 
-
-* ELECTRONICS PRODUCTION AND CNC
 
 # DAY 2[24-08-2017]  
 I did A SMALL work in vinyle cutting machine.
