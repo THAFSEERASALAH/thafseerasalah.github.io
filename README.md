@@ -85,7 +85,7 @@ A vinyl cutter (or vinyl plotter) is a computer-controlled plotting device with 
  PCB design. introduction about eagle .we did small LED blinging circuit.
 
 ![PCB DESIGHN](/images/B612_20170826_153224.jpg)
-
+![PCB ](/images/PCB.jpg)
 
 # DAY 4[26-08-2017]
 3D printing. by using rhino and cura i did a small work in 3D printing
@@ -110,3 +110,4 @@ Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendl
 I did a small work in LASER CUTTING MACHINE. By using the software rhinoceros i draw a model of jet which contain 4 parts. by using laser cutting machine i got 4 parts in hard board.
 ![](/images/L2.jpg)
 ![JET WORK BY LASER](/images/L1.jpg)
+![LASER CUTTING MACHINE](/images/L3.jpg)
