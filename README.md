@@ -2,7 +2,7 @@
 HI.... ThafseerA here!!!!
     
 ## ABOUT ME
-I'm THAFSEERA born and raised in MALAPPURAM. I did my plus 2 from P K M M H S S Edarikode and now i'm pursuing my final year B.tech in electronics and communication at M E S college of engineering Kuttipuram.I have a beautiful family of five members.
+I'm THAFSEERA born and raised in MALAPPURAM. I did my plus 2 from P K M M H S S Edarikode and now i'm pursuing my final year B.tech in electronics and communication at M E S college of engineering Kuttipuram.I have a beautiful family of six members.
 My hobbies including to help my mother in her some time work and listining music.
 
 My strengths are my attitude that i like to take challenges that I CAN do it,my way of thinking that i take both success and failure in a balanced manner..
@@ -67,8 +67,10 @@ Eagle Software ascertains itself as a paramount institution in provid ing softwa
 * ELECTRONICS PRODUCTION AND CNC
 
 # DAY 2[24-08-2017]  
-we did some work in vinyle cutting machine. 
+we did some work in vinyle cutting machine.
 
+
+![VINYLE CUTTER](/images/L2.jpg)
 ## what is vinyl cutting machine?
 
 ![VINYLE CUTTER](/images/B612_20170826_134255.jpg)
