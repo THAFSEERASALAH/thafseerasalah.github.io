@@ -1,7 +1,7 @@
-##  WELCOME TO MY FAB LAB WORLD 
+# WELCOME TO MY FAB LAB WORLD 
 HI.... ThafseerA here!!!!
     
-## ABOUT ME
+# ABOUT ME
 I'm THAFSEERA born and raised in MALAPPURAM. I did my plus 2 from P K M M H S S Edarikode and now i'm pursuing my final year B.tech in electronics and communication at M E S college of engineering Kuttipuram.I have a beautiful family of six members.
 My hobbies including to help my mother in her some time work and listining music.
 
@@ -11,7 +11,9 @@ I dont like to say weakness but i like to say scope for improvement that is i wo
 Email ID :thafsikodaniyil@gmail.com
 
 fb id    :Thafseerasalah
-## WHAT IS FAB LAB
+# WHAT IS FAB LAB
+
+![FAB LAB LOGO](/images/LOGO.png)
 
    FabLab – digital fabrication laboratories – were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technology.
     The idea was conceived by renowned inventor and scientist Professor Neil Gershenfeld at the prestigious Massachusetts Institute of Technology (MIT). His idea was a simple one: to provide the environment, skills, advanced materials and technology to make things cheaply and quickly anywhere in the world, and to make this available on a local basis to entrepreneurs, students, artists, small businesses and in fact, anyone who wants to create something new or bespoke.
