@@ -85,12 +85,18 @@ A vinyl cutter (or vinyl plotter) is a computer-controlled plotting device with 
  PCB design. introduction about eagle .we did small LED blinging circuit.
 
 ![PCB DESIGHN](/images/B612_20170826_153224.jpg)
+
 ![PCB ](/images/PCB.jpg)
 
 # DAY 4[26-08-2017]
-3D printing. by using rhino and cura i did a small work in 3D printing
+3D printing. by using rhino and cura i did a small work in 3D printing.
+### 1ST STEP 
+Design-CURA
+
+![](/images/SHIP.jpg)
 
 ## about 3d printing
+
 3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file.
 
 The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created. Each of these layers can be seen as a thinly sliced horizontal cross-section of the eventual object.
@@ -100,14 +106,52 @@ The creation of a 3D printed object is achieved using additive processes. In an 
 3D printing enables you to produce complex (functional) shapes using less material than traditional manufacturing methods.
 
 ## Ultimaker 2+
+
 ![Ultimaker 2+ 3D PRINTING MACHINE](/images/3d2.jpg)
+
 Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendly. it’s suitable for a huge variety of applications, from prototypes to customized tools. It’s a great all-around 3D printer that delivers consistent results.
 ## MY WORK 
+
 ![LITTLE SHIP-3D PRINTING](/images/3d3.jpg)
  
  
 # DAY 5
 I did a small work in LASER CUTTING MACHINE. By using the software rhinoceros i draw a model of jet which contain 4 parts. by using laser cutting machine i got 4 parts in hard board.
-![](/images/L2.jpg)
-![JET WORK BY LASER](/images/L1.jpg)
+## ABOUT LASER CUTTING MACHINE
+
 ![LASER CUTTING MACHINE](/images/L3.jpg)
+
+### What is LASER cutting?
+
+Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics.
+
+### How do you use laser cutting machine?
+
+Steps
+1-Obtain a laser cutter. ...
+2-Create an image that you wish to cut. ...
+3-Choose the material you are going to cut your image onto. ...
+4-Check to make sure the lens is clean. ...
+5-Turn on your machine and get ready to cut. ...
+6-Set your laser cutter's line width and cutting speed and then cut out your image.
+
+### how does a laser cutting machine works?
+
+When cutting stainless steel or aluminum, the laser beam simply melts the material, and high pressure nitrogen is used to blow the molten metal out of the kerf. On a CNC laser cutter, the laser cutting head is moved over the metal plate in the shape of the desired part, thus cutting the part out of the plate.
+
+### what can laser cutter cut through?
+Materials we can laser cut
+* Plastics: ABS (acrylonitrile butadiene styrene) Acrylic (also known as Plexiglas, Lucite, PMMA) ...
+* Thin metals: Stainless steel (up to 0.060") Spring steel (up to 0.060")
+* Foam: Depron foam – often used for RC planes. EPM. ...
+* Other: Cloths (leather, suede, felt, hemp, cotton) Magnetic sheets.
+
+     using Rhino or any other drawing software you can draw your laser cutting model
+## my work model
+## step 1
+![](/images/L2.jpg)
+## final model
+
+![JET WORK BY LASER](/images/L1.jpg)
+
+
