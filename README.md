@@ -70,7 +70,7 @@ Eagle Software ascertains itself as a paramount institution in provid ing softwa
 we did some work in vinyle cutting machine.
 
 
-![VINYLE CUTTER](/images/L2.jpg)
+![VINYLE CUTTER](/images/L1.jpg)
 ## what is vinyl cutting machine?
 
 ![VINYLE CUTTER](/images/B612_20170826_134255.jpg)
