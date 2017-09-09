@@ -18,7 +18,10 @@ fb id    :Thafseerasalah
    FabLab – digital fabrication laboratories – were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technology.
     The idea was conceived by renowned inventor and scientist Professor Neil Gershenfeld at the prestigious Massachusetts Institute of Technology (MIT). His idea was a simple one: to provide the environment, skills, advanced materials and technology to make things cheaply and quickly anywhere in the world, and to make this available on a local basis to entrepreneurs, students, artists, small businesses and in fact, anyone who wants to create something new or bespoke.
 ## FAB LAB AT MESCE 
+MESCE FAB LAB
+![FAB LAB LOGO](/images/lab.jpg)
 
+TEAM FAB LAB MESCE
 ![TEAM FAB LAB MESCE](/images/photo6136647713907910598.jpg)
 
 FABLAB is a 3D fabrication lab that has been recently set up at our college. It is completely amazing considering the possibilities of turning imagination to reality. It consists of a lot of machines such as the 3D printer, CNC, laser cutter/engraver and others too. I am in the process of diving into the depths of knowledge of how we could turn one’s imagination to reality. Actually this seems no less than magic. Atleast that is how I feel. So, here I am to share my experience at FABLAB, MESCE. I hope that anyone who goes through this will get an idea about the technology used in a 3D fabrication lab. Well … explore and have fun.
@@ -28,13 +31,13 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
  went well with the introduction by   Mr. Jaseel Muhammed an overview of how the 21 hrs were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more. we created an account in github.also we get an idea about Rhino.we draw some 3d models.
 ## INTRODUCTION OF MACHINES
 * 3D PRINTER
-
+![FAB LAB LOGO](/images/3D.png)
 * VINYLE CUTTER
-
+![FAB LAB LOGO](/images/VY.png)
 * LASER CUTTING MACHINE 
-
+![FAB LAB LOGO](/images/L3.png)
 * ELECTRONICS PRODUCTION AND CNC
-
+![FAB LAB LOGO](/images/CNC.png)
 
 # SOFTWARE TOOLS FOR FABLAB
 ## Cura 
@@ -69,9 +72,62 @@ Eagle Software ascertains itself as a paramount institution in provid ing softwa
 
 ## CUTSTUDIO
  Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof tware for Windows that allows you to cut any TrueType font, any SVG image a nd any design you want using an electronic cutting machine ( vinyl cutter a nd cutting plotter). Works with your installed TrueType and OpenType, and Di ngbat/Wingding fonts. This viny cutting software can import various file fo rmats but also provides a full set of drawing and editing tools to create yo ur own designs for cutting.
- 
+# DAY 2[24-08-2017]   
+## Github pages And Documentation
+### What Is GitHub, and What Is It Used For?
 
-# DAY 2[24-08-2017]  
+![STICKER](/images/git1.jpg)
+
+GitHub is a website and service that we hear geeks rave about all the time, yet a lot of people don’t really understand what it does. Want to know what all the GitHub hubbub is about? Read on to find out.
+### The “Git” in GitHub
+o understand GitHub, you must first have an understanding of Git. Git is an open-source version control system that was started by Linus Trovalds—the same person who created Linux. Git is similar to other version control systems—Subversion, CVS, and Mercurial to name a few.
+
+So, Git is a version control system, but what does that mean? When developers create something (an app, for example), they make constant changes to the code, releasing new versions up to and after the first official (non-beta) release.
+
+Version control systems keep these revisions straight, storing the modifications in a central repository. This allows developers to easily collaborate, as they can download a new version of the software, make changes, and upload the newest revision. Every developer can see these new changes, download them, and contribute.
+
+Similarly, people who have nothing to do with the development of a project can still download the files and use them. Most Linux users should be familiar with this process, as using Git, Subversion, or some other similar method is pretty common for downloading needed files—especially in preparation for compiling a program from source code (a rather common practice for Linux geeks).
+
+Git is the preferred version control system of most developers, since it has multiple advantages over the other systems available. It stores file changes more efficiently and ensures file integrity better. If you’re interested in knowing the details, the Git Basics page has a thorough explanation on how Git works.
+
+### The “Hub” in GitHub
+
+We’ve established that Git is a version control system, similar but better than the many alternatives available. So, what makes GitHub so special? Git is a command-line tool, but the center around which all things involving Git revolve is the hub—GitHub.com—where developers store their projects and network with like minded people.
+
+Let’s go over a few of the main reasons that geeks like to use GitHub, and learn some terminology along the way.
+
+Repository
+
+A repository (usually abbreviated to “repo”) is a location where all the files for a particular project are stored. Each project has its own repo, and you can access it with a unique URL.
+
+![STICKER](/images/git2.jpg)
+
+### Forking a Repo
+
+“Forking” is when you create a new project based off of another project that already exists. This is an amazing feature that vastly encourages the further development of programs and other projects. If you find a project on GitHub that you’d like to contribute to, you can fork the repo, make the changes you’d like, and release the revised project as a new repo. If the original repository that you forked to create your new project gets updated, you can easily add those updates to your current fork.
+
+### Pull Requests
+
+You’ve forked a repository, made a great revision to the project, and want it to be recognized by the original developers—maybe even included in the official project/repository. You can do so by creating a pull request. The authors of the original repository can see your work, and then choose whether or not to accept it into the official project. Whenever you issue a pull request, GitHub provides a perfect medium for you and the main project’s maintainer to communicate.
+
+### Social networking
+
+The social networking aspect of GitHub is probably its most powerful feature, allowing projects to grow more than just about any of the other features offered. Each user on GitHub has their own profile that acts like a resume of sorts, showing your past work and contributions to other projects via pull requests.
+
+Project revisions can be discussed publicly, so a mass of experts can contribute knowledge and collaborate to advance a project forward. Before the advent of GitHub, developers interested in contributing to a project would usually need to find some means of contacting the authors—probably by email—and then convince them that they can be trusted and their contribution is legit.
+
+### Changelogs
+
+When multiple people collaborate on a project, it’s hard to keep track revisions—who changed what, when, and where those files are stored. GitHub takes care of this problem by keeping track of all the changes that have been pushed to the repository.
+
+### GitHub Isn’t Just for Developers
+
+All this talk about how GitHub is ideal for programmers may have you believing that they are the only ones who will find it useful. Although it’s a lot less common, you can actually use GitHub for any types of files. If you have a team that is constantly making changes to a word document, for example,  you could use GitHub as your version control system. This practice isn’t common, since there are better alternatives in most cases, but it’s something to keep in mind.
+
+Now that you know what GitHub is all about, are you ready to get started? Head over to GitHub.com and be sure to check out their help pages after signing up.
+
+
+# DAY 3
 I did A SMALL work in vinyle cutting machine.
 
 
