@@ -79,8 +79,11 @@ Eagle Software ascertains itself as a paramount institution in provid ing softwa
 
 ## CUTSTUDIO
  Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof tware for Windows that allows you to cut any TrueType font, any SVG image a nd any design you want using an electronic cutting machine ( vinyl cutter a nd cutting plotter). Works with your installed TrueType and OpenType, and Di ngbat/Wingding fonts. This viny cutting software can import various file fo rmats but also provides a full set of drawing and editing tools to create yo ur own designs for cutting.
+ 
 # DAY 2[24-08-2017]   
+
 ## Github pages And Documentation
+
 ### What Is GitHub, and What Is It Used For?
 
 ![STICKER](/images/git1.png)
@@ -207,7 +210,7 @@ A vinyl cutter (or vinyl plotter) is a computer-controlled plotting device with 
 
 
 
-# DAY 4[26-08-2017]
+# DAY 3[26-08-2017]
 3D printing. by using rhino and cura i did a small work in 3D printing.
 
 ### 1ST STEP 
