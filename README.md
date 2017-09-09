@@ -83,7 +83,7 @@ Eagle Software ascertains itself as a paramount institution in provid ing softwa
 ## Github pages And Documentation
 ### What Is GitHub, and What Is It Used For?
 
-![STICKER](/images/git1.jpg)
+![STICKER](/images/git1.png)
 
 GitHub is a website and service that we hear geeks rave about all the time, yet a lot of people don’t really understand what it does. Want to know what all the GitHub hubbub is about? Read on to find out.
 ### The “Git” in GitHub
