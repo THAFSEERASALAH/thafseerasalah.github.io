@@ -134,8 +134,6 @@ All this talk about how GitHub is ideal for programmers may have you believing t
 ## STEPS 
 ### Step 1: Github Account and Project Repository
 
-![STICKER](/images/S1.html)
-
 First of all, before you are able to create a Github page, you need a Github account, and then you also need to create your project repository. You can easily create a new project repo by using Github application, which is available for both Windows and OS X.
 
 ### Step 2: Create Local Repository
