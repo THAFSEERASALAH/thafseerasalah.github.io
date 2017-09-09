@@ -31,13 +31,13 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
  went well with the introduction by   Mr. Jaseel Muhammed an overview of how the 21 hrs were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more. we created an account in github.also we get an idea about Rhino.we draw some 3d models.
 ## INTRODUCTION OF MACHINES
 * 3D PRINTER
-![FAB LAB LOGO](/images/3D.png)
+![FAB LAB LOGO](/images/3D.jpg)
 * VINYLE CUTTER
-![FAB LAB LOGO](/images/VY.png)
+![FAB LAB LOGO](/images/vyo.jpg)
 * LASER CUTTING MACHINE 
-![FAB LAB LOGO](/images/L3.png)
+![FAB LAB LOGO](/images/lo.jpg)
 * ELECTRONICS PRODUCTION AND CNC
-![FAB LAB LOGO](/images/CNC.png)
+![FAB LAB LOGO](/images/pc.jpg)
 
 # SOFTWARE TOOLS FOR FABLAB
 ## Cura 
