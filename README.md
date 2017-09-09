@@ -131,7 +131,58 @@ When multiple people collaborate on a project, it’s hard to keep track revisio
 
 All this talk about how GitHub is ideal for programmers may have you believing that they are the only ones who will find it useful. Although it’s a lot less common, you can actually use GitHub for any types of files. If you have a team that is constantly making changes to a word document, for example,  you could use GitHub as your version control system. This practice isn’t common, since there are better alternatives in most cases, but it’s something to keep in mind.
 
-Now that you know what GitHub is all about, are you ready to get started? Head over to GitHub.com and be sure to check out their help pages after signing up.
+## STEPS 
+### Step 1: Github Account and Project Repository
+
+![STICKER](/images/S1.html)
+
+First of all, before you are able to create a Github page, you need a Github account, and then you also need to create your project repository. You can easily create a new project repo by using Github application, which is available for both Windows and OS X.
+
+### Step 2: Create Local Repository
+
+![STICKER](/images/S2.jpg)
+
+Assuming that you have an existing project ready to publish, you can open the Github application – in this example, I’m using the one for OSX – and add it as your Local Repository. To do so, click on the “+” button that is found at the bottom of the application. Then select the folder where you saved the project.
+
+### Step 3: Push to Github
+
+![STICKER](/images/S3.jpg)
+
+After creating the Local Repository, you need to push it to Github. At this point, unless you have a Pro account where you are able to set your project to Private, it will be available for the public at Github, meaning that anyone can download and fork your project.
+
+
+
+### Step 4: Create Github Page
+
+![STICKER](/images/S4.jpg)
+
+Creating a page for your project, go to your project repository – usually github.com/username/project-name.
+
+And go to the Settings page. This is where you setup your project repo, and create the page for it.
+
+
+
+### Step 5: Change Title and Content
+
+![STICKER](/images/S5.jpg)
+
+Now, it’s time to change the title, the content of your project page (in Markdown), and if you want to, you can also insert your Google Analytics ID to allow tracking of visitors to your page. If you are done editing the content, you can Continue to Layouts.
+
+
+
+### Step 6: Select Page Theme
+
+![STICKER](/images/S6.jpg)
+
+Github has provided several themes to choose from for your page. If the themes do not meet your taste, you can create and design your own with an index.html and stylesheet (perhaps in another tutorial).
+
+
+
+### Step 7: Publish the Page
+
+![STICKER](/images/S7.jpg)
+
+Lastly, click on the Publish button, and allow Github around 10 minutes to process your page.
 
 
 # DAY 3
