@@ -30,23 +30,33 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 # DAY 1 [23-08-2017] 
  went well with the introduction by   Mr. Jaseel Muhammed an overview of how the 21 hrs were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more. we created an account in github.also we get an idea about Rhino.we draw some 3d models.
 ## INTRODUCTION OF MACHINES
-* 3D PRINTER
+## * 3D PRINTER
+
+3D printing, also known as additive manufacturing (AM), refers to processes used to create a three-dimensional object in which layers of material are formed under computer control to create an object.
 
 ![FAB LAB LOGO](/images/3D.jpg)
 
-* VINYLE CUTTER
+## * VINYLE CUTTER
 
 ![FAB LAB LOGO](/images/vyo.jpg)
 
-* LASER CUTTING MACHINE 
+A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).
+
+## * LASER CUTTING MACHINE 
+
+Laser cuttinghttp://www.thomasnet.com/images/suppliers-small.png uses a high-powered beam to cut material based on computer-controlled parameters. As the laser guides its beam along the material, everything in its direct path is vaporized, burned or melted. One of the benefits of laser cutting technology is the cut product rarely needs any finishing work as this process ensures a high-quality surface finish.
 
 ![FAB LAB LOGO](/images/lo.jpg)
 
-* ELECTRONICS PRODUCTION AND CNC
+
+## * ELECTRONICS PRODUCTION AND CNC
 
 ![FAB LAB LOGO](/images/pc.jpg)
 
-# SOFTWARE TOOLS FOR FABLAB
+CNC Machining is a process used in the manufacturing sector that involves the use of computers to control machine tools. Tools that can be controlled in this manner include lathes, mills, routers and grinders. The CNC in CNC Machining stands for Computer Numerical Control.
+
+# SOFTWARES USED IN FABLAB
+
 ## Cura 
   The world’s most advanced 
  3D printer software
@@ -69,17 +79,6 @@ Rhinoceros is developed for the Microsoft Windows operating system and OS X. A v
 Eagle Software ascertains itself as a paramount institution in provid ing software products and solutions for Health Care, Micro-Finance, Insurance and Immigration. We develop mobile phone games, online lott ery applications and deliver value added services for mobile phone ga mes. We deliver end-to-end solutions for web and desktop applications based on Smart Card / RFID Solutionstechnology.
 
 
-## AUTOCAD
- AutoCAD is a commercial computer-aided design (CAD) and drafting software application. Developed and marketed by Autodesk,[1] AutoCAD was first rel eased in December 1982 as a desktop app running on microcomputers with in ternal graphics controllers.[2] Prior to the introduction of AutoCAD, most commercial CAD programs ran on mainframe computers or minicomputers, with each CAD operator (user) working at a separate graphics terminal.[3] Since 2010, AutoCAD was released as a mobile- and web app as well, marketed as AutoCAD 360.
-
-
-## SOLIDWORKS
- SOLIDWORKS solutions cover all aspects of your product development process with a seamless, integrated workflow—design, verification, sustainable des ign, communication and data management. The intuitive design interface and integrated software work together and give you the freedom to focus on inn ovation, thus giving you the possibility to span multiple disciplines with ease.
-
-
-## CUTSTUDIO
- Easy Cut Studio is the industry’s premiere sign making and vinyl cutting sof tware for Windows that allows you to cut any TrueType font, any SVG image a nd any design you want using an electronic cutting machine ( vinyl cutter a nd cutting plotter). Works with your installed TrueType and OpenType, and Di ngbat/Wingding fonts. This viny cutting software can import various file fo rmats but also provides a full set of drawing and editing tools to create yo ur own designs for cutting.
- 
 # DAY 2[24-08-2017]   
 
 ## Github pages And Documentation
@@ -191,9 +190,44 @@ Lastly, click on the Publish button, and allow Github around 10 minutes to proce
 # DAY 3[26-08-2017]
 3D printing. by using rhino and cura i did a small work in 3D printing.
 
-### 1ST STEP 
+## RHINOCEROS
+![](/images/R1.jpg)
+Rhinoceros 3D relies on a few plug-ins that facilitate 3D printing [6][7][8] and allows the export of the .STL and .OBJ file formats, both of which are supported by numerous 3D printers and 3D printing services.
 
-Design-CURA
+In a recent overview leading 3D printing service provider i.materialise compared the top 25 most popular 3D modelling software programs in use today.
+
+Despite Rhinoceros 3D's plug-ins for supporting 3D printing, Rhinoceros 3D only scored a 13th place in this extensive survey coming in behind industry standard 3D packages like SolidWorks.
+
+![](/images/R2.jpg)
+
+## CURA
+
+Cura is a 3D printer slicing application.[1] It was created by David Braam; he was later employed by Ultimaker to maintain the software. Cura has been released under the open source Affero General Public License version 3.[2] Development is hosted on GitHub.[2] Cura is the preferred slicer software for Ultimaker 3d printers, but can be used with other printers as well.
+
+### Printer support[edit]
+Cura supports includes the following printers
+
+* All Ultimaker printers
+* 3DMaker Starter  
+* BQ Hephestos 2
+* BQ Prusa i3 Hephestos, XL
+* BQ Witbox, 1 & 2
+* Innovo INVENTOR
+* Malyan M180
+* Prusa i3, XL
+* RepRap Neo
+* RigidBot, RigidBotBig
+* 3Dexter
+* Robo 3D
+
+### HOW DO YOU PRINT FROM CURA?
+
+1-Open Cura.
+2-Load your model.
+3-Mesure the filament diameter with the digital caliper and enter the value into the Filament/Diameter textbox (Mandatory)
+4-Adjust the scaling and rotation if necessary.
+5-Tune the others settings depending off the object printed. Main settings : ...
+6-Click on "Prepare to print"
 
 ![](/images/SHIP.jpg)
 
