@@ -84,7 +84,7 @@ Optimized for dual extrusion printing with Ultimaker 3
    
 ## Rhinoceros
 
-![FAB LAB LOGO](/images/r1.jpg)
+![FAB LAB LOGO](/images/R1.jpg)
 
    Rhinoceros (typically abbreviated Rhino, or Rhino3D) is a commercial 3D computer graphics and computer-aided design (CAD) application software developed by Robert McNeel & Associates; an American, privately held, employee-owned company, that was founded in 1980. Rhinoceros geometry is based on the NURBS mathematical model, which focuses on producing mathematically precise representation of curves and freeform surfaces in computer graphics (as opposed to polygon mesh-based applications).
 
