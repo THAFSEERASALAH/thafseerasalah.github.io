@@ -1,7 +1,8 @@
-# WELCOME TO MY FAB LAB WORLD 
-HI.... ThafseerA here!!!!
+#                                         WELCOME TO MY FAB LAB WORLD.....
+###                                        Hi.... ThafseerA here!!!!
     
 # ABOUT ME
+
 I'm THAFSEERA born and raised in MALAPPURAM. I did my plus 2 from P K M M H S S Edarikode and now i'm pursuing my final year B.tech in electronics and communication at M E S college of engineering Kuttipuram.I have a beautiful family of six members.
 My hobbies including to help my mother in her some time work and listining music.
 
@@ -10,18 +11,23 @@ I dont like to say weakness but i like to say scope for improvement that is i wo
 
 Email ID :thafsikodaniyil@gmail.com
 
-fb id    :Thafseerasalah
+facebook id:Thafseerasalah
+
+
 # WHAT IS FAB LAB
 
 ![FAB LAB LOGO](/images/LOGO.png)
 
    FabLab – digital fabrication laboratories – were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technology.
     The idea was conceived by renowned inventor and scientist Professor Neil Gershenfeld at the prestigious Massachusetts Institute of Technology (MIT). His idea was a simple one: to provide the environment, skills, advanced materials and technology to make things cheaply and quickly anywhere in the world, and to make this available on a local basis to entrepreneurs, students, artists, small businesses and in fact, anyone who wants to create something new or bespoke.
+    
 ## FAB LAB AT MESCE 
-MESCE FAB LAB
+
+### MESCE FAB LAB
+
 ![FAB LAB LOGO](/images/lab.jpg)
 
-TEAM FAB LAB MESCE
+### TEAM FAB LAB MESCE
 
 ![TEAM FAB LAB MESCE](/images/photo6136647713907910598.jpg)
 
@@ -29,8 +35,11 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 
 
 # DAY 1 [23-08-2017] 
+
  went well with the introduction by   Mr. Jaseel Muhammed an overview of how the 21 hrs were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more. we created an account in github.also we get an idea about Rhino.we draw some 3d models.
+ 
 ## INTRODUCTION OF MACHINES
+
 ## * 3D PRINTER
 
 3D printing, also known as additive manufacturing (AM), refers to processes used to create a three-dimensional object in which layers of material are formed under computer control to create an object.
@@ -59,6 +68,9 @@ CNC Machining is a process used in the manufacturing sector that involves the us
 # SOFTWARES USED IN FABLAB
 
 ## Cura 
+
+![FAB LAB LOGO](/images/c.png)
+
   The world’s most advanced 
  3D printer software
 Cura creates a seamless integration between hardware, software and materials for the best 3D printing experience around.
@@ -71,12 +83,19 @@ It’s open source and completely free
 Optimized for dual extrusion printing with Ultimaker 3
    
 ## Rhinoceros
+
+![FAB LAB LOGO](/images/r1.jpg)
+
    Rhinoceros (typically abbreviated Rhino, or Rhino3D) is a commercial 3D computer graphics and computer-aided design (CAD) application software developed by Robert McNeel & Associates; an American, privately held, employee-owned company, that was founded in 1980. Rhinoceros geometry is based on the NURBS mathematical model, which focuses on producing mathematically precise representation of curves and freeform surfaces in computer graphics (as opposed to polygon mesh-based applications).
 
 Rhinoceros is used in processes of computer-aided design (CAD), computer-aided manufacturing (CAM), rapid prototyping, 3D printing and reverse engineering in industries including architecture, industrial design (e.g. automotive design, watercraft design), product design (e.g. jewelry design) as well as for multimedia and graphic design.[2]
 
 Rhinoceros is developed for the Microsoft Windows operating system and OS X. A visual scripting language add-on for Rhino, Grasshopper, is developed by Robert McNeel & Associates.
+
 ## EAGLE
+
+![FAB LAB LOGO](/images/el1.jpg)
+
 Eagle Software ascertains itself as a paramount institution in provid ing software products and solutions for Health Care, Micro-Finance, Insurance and Immigration. We develop mobile phone games, online lott ery applications and deliver value added services for mobile phone ga mes. We deliver end-to-end solutions for web and desktop applications based on Smart Card / RFID Solutionstechnology.
 
 
@@ -134,7 +153,8 @@ When multiple people collaborate on a project, it’s hard to keep track revisio
 
 All this talk about how GitHub is ideal for programmers may have you believing that they are the only ones who will find it useful. Although it’s a lot less common, you can actually use GitHub for any types of files. If you have a team that is constantly making changes to a word document, for example,  you could use GitHub as your version control system. This practice isn’t common, since there are better alternatives in most cases, but it’s something to keep in mind.
 
-## STEPS 
+## STEPS
+
 ### Step 1: Github Account and Project Repository
 
 First of all, before you are able to create a Github page, you need a Github account, and then you also need to create your project repository. You can easily create a new project repo by using Github application, which is available for both Windows and OS X.
@@ -208,7 +228,9 @@ Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendl
 
 
 ## RHINOCEROS
+
 ![](/images/R1.jpg)
+
 Rhinoceros 3D relies on a few plug-ins that facilitate 3D printing [6][7][8] and allows the export of the .STL and .OBJ file formats, both of which are supported by numerous 3D printers and 3D printing services.
 
 In a recent overview leading 3D printing service provider i.materialise compared the top 25 most popular 3D modelling software programs in use today.
@@ -242,6 +264,8 @@ Cura supports includes the following printers
 1-Open Cura.
 
 2-Load your model.
+
+![FAB LAB LOGO](/images/sh2.jpg)
 
 3-Mesure the filament diameter with the digital caliper and enter the value into the Filament/Diameter textbox (Mandatory)
 
@@ -313,7 +337,8 @@ When cutting stainless steel or aluminum, the laser beam simply melts the materi
 
  PCB design. introduction about eagle .we did small LED blinging circuit.
  
- ![PCB DESIGHN](/images/B612_20170826_153224.jpg)
+ ![PCB ](/images/PCB.jpg)
+
  
 ## EAGLE
 
@@ -356,22 +381,13 @@ You can also add text in your board all you have to do is click the button that 
 
 ## MY PROJECT 
 
-![PCB ](/images/PCB.jpg)
-
-
+ ![PCB DESIGHN](/images/B612_20170826_153224.jpg)
 
 # DAY 7
 I did A SMALL work in vinyle cutting machine.
-
-
-
 ![STICKER](/images/v1.jpg)
-
-
 ## what is vinyl cutting machine?
-
 ![VINYLE CUTTER](/images/B612_20170826_134255.jpg)
-
  A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).
 A symbol / label can be produced using a Vinyl Cutter such as a ‘Sticker Machine’ or a ‘Craftrobo’. These machines are controlled by a computer and operate similar to a printer. Essentially they cut out shapes in adhesive vinyl. The vinyl can then be stuck onto almost any surface.
 A vinyl cutter (or vinyl plotter) is a computer-controlled plotting device with a blade instead of a pen. A vector based design is created in a software program (usually Adobe Illustrator or Corel Draw) and then sent to the cutter where it cuts along the vector paths laid out in the design. The cutter is capable of moving the blade on an X and Y axis over the material, cutting it into any shape imaginable. Since the vinyl material comes in long rolls, projects with significant length like banners or billboards can be easily cut as well. The one major limitation with vinyl cutters is that they can only cut shapes from solid colors of vinyl. A design with multiple colors must have each color cut separately and then layered on top of each other as it is applied to the substrate. Also, since the shapes are cut out of solid colors, photographs and gradients cannot be reproduced with a standalone cutter.
