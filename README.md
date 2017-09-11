@@ -22,6 +22,7 @@ MESCE FAB LAB
 ![FAB LAB LOGO](/images/lab.jpg)
 
 TEAM FAB LAB MESCE
+
 ![TEAM FAB LAB MESCE](/images/photo6136647713907910598.jpg)
 
 FABLAB is a 3D fabrication lab that has been recently set up at our college. It is completely amazing considering the possibilities of turning imagination to reality. It consists of a lot of machines such as the 3D printer, CNC, laser cutter/engraver and others too. I am in the process of diving into the depths of knowledge of how we could turn one’s imagination to reality. Actually this seems no less than magic. Atleast that is how I feel. So, here I am to share my experience at FABLAB, MESCE. I hope that anyone who goes through this will get an idea about the technology used in a 3D fabrication lab. Well … explore and have fun.
@@ -190,6 +191,22 @@ Lastly, click on the Publish button, and allow Github around 10 minutes to proce
 # DAY 3[26-08-2017]
 3D printing. by using rhino and cura i did a small work in 3D printing.
 
+## about 3d printing
+
+3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file.
+
+The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created. Each of these layers can be seen as a thinly sliced horizontal cross-section of the eventual object.
+
+
+3D printing enables you to produce complex (functional) shapes using less material than traditional manufacturing methods.
+
+## Ultimaker 2+
+
+![Ultimaker 2+ 3D PRINTING MACHINE](/images/3d2.jpg)
+
+Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendly. it’s suitable for a huge variety of applications, from prototypes to customized tools. It’s a great all-around 3D printer that delivers consistent results.
+
+
 ## RHINOCEROS
 ![](/images/R1.jpg)
 Rhinoceros 3D relies on a few plug-ins that facilitate 3D printing [6][7][8] and allows the export of the .STL and .OBJ file formats, both of which are supported by numerous 3D printers and 3D printing services.
@@ -198,7 +215,7 @@ In a recent overview leading 3D printing service provider i.materialise compared
 
 Despite Rhinoceros 3D's plug-ins for supporting 3D printing, Rhinoceros 3D only scored a 13th place in this extensive survey coming in behind industry standard 3D packages like SolidWorks.
 
-![](/images/R2.jpg)
+![](/images/R2.png)
 
 ## CURA
 
@@ -223,36 +240,27 @@ Cura supports includes the following printers
 ### HOW DO YOU PRINT FROM CURA?
 
 1-Open Cura.
+
 2-Load your model.
+
 3-Mesure the filament diameter with the digital caliper and enter the value into the Filament/Diameter textbox (Mandatory)
+
 4-Adjust the scaling and rotation if necessary.
-5-Tune the others settings depending off the object printed. Main settings : ...
+
+5-Tune the others settings depending off the object printed. Main settings :
+
 6-Click on "Prepare to print"
 
 ![](/images/SHIP.jpg)
 
-## about 3d printing
-
-3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file.
-
-The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created. Each of these layers can be seen as a thinly sliced horizontal cross-section of the eventual object.
-
-3D printing is the opposite of subtractive manufacturing which is cutting out / hollowing out a piece of metal or plastic with for instance a milling machine.
-
-3D printing enables you to produce complex (functional) shapes using less material than traditional manufacturing methods.
-
-## Ultimaker 2+
-
-![Ultimaker 2+ 3D PRINTING MACHINE](/images/3d2.jpg)
-
-Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendly. it’s suitable for a huge variety of applications, from prototypes to customized tools. It’s a great all-around 3D printer that delivers consistent results.
 ## MY WORK 
 
 ![LITTLE SHIP-3D PRINTING](/images/3d3.jpg)
- 
- 
+
 # DAY 5
+
 I did a small work in LASER CUTTING MACHINE. By using the software rhinoceros i draw a model of jet which contain 4 parts. by using laser cutting machine i got 4 parts in hard board.
+
 ## ABOUT LASER CUTTING MACHINE
 
 ![LASER CUTTING MACHINE](/images/L3.jpg)
@@ -281,25 +289,76 @@ Steps
 When cutting stainless steel or aluminum, the laser beam simply melts the material, and high pressure nitrogen is used to blow the molten metal out of the kerf. On a CNC laser cutter, the laser cutting head is moved over the metal plate in the shape of the desired part, thus cutting the part out of the plate.
 
 ### what can laser cutter cut through?
-Materials we can laser cut
+
+#### Materials we can laser cut
+
 * Plastics: ABS (acrylonitrile butadiene styrene) Acrylic (also known as Plexiglas, Lucite, PMMA) ...
 * Thin metals: Stainless steel (up to 0.060") Spring steel (up to 0.060")
 * Foam: Depron foam – often used for RC planes. EPM. ...
 * Other: Cloths (leather, suede, felt, hemp, cotton) Magnetic sheets.
 
      using Rhino or any other drawing software you can draw your laser cutting model
+     
 ## my work model
+
 ## step 1
+
 ![](/images/L2.jpg)
+
 ## final model
 
 ![JET WORK BY LASER](/images/L1.jpg)
+
 # DAY 6 
- PCB design. introduction about eagle .we did small LED blinging circuit
+
+ PCB design. introduction about eagle .we did small LED blinging circuit.
  
+ ![PCB DESIGHN](/images/B612_20170826_153224.jpg)
+ 
+## EAGLE
+
+EAGLE is a scriptable electronic design automation application with schematic capture, printed circuit board layout, auto-router and computer-aided manufacturing features. EAGLE stands for Easily Applicable Graphical Layout Editor (German: Einfach Anzuwendender Grafischer Layout-Editor) and is developed by CadSoft Computer GmbH. Cadsoft Computer GmbH was acquired by Autodesk Inc. in 2016.[1]
+
+Popular DIY electronics site SparkFun uses EAGLE and releases the EAGLE files for boards designed in-house. Other notable users include Adafruit, Arduino[2] and Dangerous Prototypes.
+
+### STEPS 
+
+#### Step 1: Starting New Project & Adding Components
+
+![JET WORK BY LASER](/images/E1.jpg)
+
+![JET WORK BY LASER](/images/E11.jpg)
+
+ First open eagle.scad then you need to hover over FILE then NEW then click on schematic.
+After that you should have a new window pop up. This is were you are going to draw your schematic.
+To add a component you need to click the add button. Then find your component. Click OK and you should have the schematic sign of your component, just click and it will be added. That I show you add a part. Keep doing that Intel you have all the parts you need. To  turn a component all you have to do is right click.
+
+#### Step 2: Connecting Components.
+
+![JET WORK BY LASER](/images/E2.jpg)
+
+To connect your components you have to click the wire button. Then click on one part you want to connect then click the other. If you right click then the angle that the lin tirns at and direction will change.
+
+#### Step 3: Converting Schematics to Boards
+
+![JET WORK BY LASER](/images/E3.jpg)
+
+![JET WORK BY LASER](/images/E33.jpg)
+
+To convert your schematic to a board all you have to do is press the board button. Ones you clicked that a window should pop up and you should see your components outside of the square.to move your components click the move button. The yellow lines that you see connecting your components means that they are unrouted. There are 2 ways to rout your component.one way is by hand and the other way is using the auto route button. To rout by hand you click the rout button then click the two ends of the components. When the line that you make is red then its on the top of the board if the line is blue than it is on the bottom.to use auto route just click auto.
+#### Step 4: Other Things
+
+![JET WORK BY LASER](/images/E4.jpg)
+
+You can also add text in your board all you have to do is click the button that seas text, type what you want it to say then click ok. Your text might come up in red or blue this Is not good but it is ease to fix. All you have to do Is click select layer button then find ether Tsilk or Bsilk. Tsilk means that your text will be on the silk layer on the top of the board. Bsilk means that your text will be on the bottom of the board. Then click where you want your text to be just make sure that it is not over any holes, or pads.
+
+#### Step 5: Finished
+
+## MY PROJECT 
+
 ![PCB ](/images/PCB.jpg)
 
-![PCB DESIGHN](/images/B612_20170826_153224.jpg)
+
 
 # DAY 7
 I did A SMALL work in vinyle cutting machine.
