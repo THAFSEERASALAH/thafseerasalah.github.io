@@ -578,13 +578,11 @@ Apply transfer tape. With your image weeded, the next step to take will be to tr
 Prepare your target surface. Your target surface should be prepared by cleaning with rubbing alcohol or other similar cleaner to remove grease, oil and dirt. In addition, the surface can be prepared with an application liquid spray that will allow the vinyl to not immediately stick to the target surface. This will allow you to reposition the graphic on the target surface before allowing it to dry and permanently adhere and remove air bubbles. This saves lots of time and avoids having to redo the job.
 
 ![STICKER](/images/J14.webp)
-#14
+# 14
 
 Apply your graphics. Peel the transfer tape away from the release liner and your graphics should come with your transfer tape. If they don't, push the transfer tape back down and use your squeegee again to stick the transfer tape to the decal. Take this decal and apply it to the target surface. From there, use your squeegee with a felt sleeve to smooth your decal on your target surface removing all air bubbles. Allow to dry if you applied application liquid and then peel off your transfer tape.
 ## MY WORK
-
 I did A SMALL work in vinyle cutting machine.
-
 ![STICKER](/images/v1.jpg)
 
 
