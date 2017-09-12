@@ -124,7 +124,7 @@ We’ve established that Git is a version control system, similar but better tha
 
 Let’s go over a few of the main reasons that geeks like to use GitHub, and learn some terminology along the way.
 
-Repository
+### Repository
 
 A repository (usually abbreviated to “repo”) is a location where all the files for a particular project are stored. Each project has its own repo, and you can access it with a unique URL.
 
@@ -236,7 +236,7 @@ Despite Rhinoceros 3D's plug-ins for supporting 3D printing, Rhinoceros 3D only 
 
 Cura is a 3D printer slicing application.[1] It was created by David Braam; he was later employed by Ultimaker to maintain the software. Cura has been released under the open source Affero General Public License version 3.[2] Development is hosted on GitHub.[2] Cura is the preferred slicer software for Ultimaker 3d printers, but can be used with other printers as well.
 
-### Printer support[edit]
+### Printer support
 Cura supports includes the following printers
 
 * All Ultimaker printers
@@ -318,6 +318,7 @@ Laser cutting is a technology that uses a laser to cut materials, and is typical
 ### How do you use laser cutting machine?
 
 Steps
+
 1-Obtain a laser cutter. ...
 
 2-Create an image that you wish to cut. ...
@@ -350,6 +351,10 @@ When cutting stainless steel or aluminum, the laser beam simply melts the materi
 ## step 1
 
 ![](/images/L2.jpg)
+
+## STEP 2
+
+![FAB LAB LOGO](/images/14.jpg)
 
 ## final model
 
@@ -503,16 +508,21 @@ The ShopbotEasy panel will disappear and the below Command Console will appear.
  ![PCB DESIGHN](/images/B612_20170826_153224.jpg)
 
 # DAY 7
-I did A SMALL work in vinyle cutting machine.
+## VINYLE CUTTING
 
-![STICKER](/images/v1.jpg)
 
 ## what is vinyl cutting machine?
+
 ![VINYLE CUTTER](/images/B612_20170826_134255.jpg)
  A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).
 A symbol / label can be produced using a Vinyl Cutter such as a ‘Sticker Machine’ or a ‘Craftrobo’. These machines are controlled by a computer and operate similar to a printer. Essentially they cut out shapes in adhesive vinyl. The vinyl can then be stuck onto almost any surface.
 A vinyl cutter (or vinyl plotter) is a computer-controlled plotting device with a blade instead of a pen. A vector based design is created in a software program (usually Adobe Illustrator or Corel Draw) and then sent to the cutter where it cuts along the vector paths laid out in the design. The cutter is capable of moving the blade on an X and Y axis over the material, cutting it into any shape imaginable. Since the vinyl material comes in long rolls, projects with significant length like banners or billboards can be easily cut as well. The one major limitation with vinyl cutters is that they can only cut shapes from solid colors of vinyl. A design with multiple colors must have each color cut separately and then layered on top of each other as it is applied to the substrate. Also, since the shapes are cut out of solid colors, photographs and gradients cannot be reproduced with a standalone cutter.
 
+## MY WORK
+
+I did A SMALL work in vinyle cutting machine.
+
+![STICKER](/images/v1.jpg)
 
 
 
