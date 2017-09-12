@@ -16,9 +16,7 @@ facebook id:Thafseerasalah
 
 # WHAT IS FAB LAB
 
-![FAB LAB LOGO](/images/LOGO.png)
-
-   FabLab – digital fabrication laboratories – were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technology.
+![FAB LAB LOGO](/images/LOGO.png)  FabLab – digital fabrication laboratories – were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technology.
     The idea was conceived by renowned inventor and scientist Professor Neil Gershenfeld at the prestigious Massachusetts Institute of Technology (MIT). His idea was a simple one: to provide the environment, skills, advanced materials and technology to make things cheaply and quickly anywhere in the world, and to make this available on a local basis to entrepreneurs, students, artists, small businesses and in fact, anyone who wants to create something new or bespoke.
     
 ## FAB LAB AT MESCE 
@@ -27,11 +25,12 @@ facebook id:Thafseerasalah
 
 ![FAB LAB LOGO](/images/lab.jpg)
 
+
+FABLAB is a 3D fabrication lab that has been recently set up at our college. It is completely amazing considering the possibilities of turning imagination to reality. It consists of a lot of machines such as the 3D printer, CNC, laser cutter/engraver and others too. I am in the process of diving into the depths of knowledge of how we could turn one’s imagination to reality. Actually this seems no less than magic. Atleast that is how I feel. So, here I am to share my experience at FABLAB, MESCE. I hope that anyone who goes through this will get an idea about the technology used in a 3D fabrication lab. Well … explore and have fun.
+
 ### TEAM FAB LAB MESCE
 
 ![TEAM FAB LAB MESCE](/images/photo6136647713907910598.jpg)
-
-FABLAB is a 3D fabrication lab that has been recently set up at our college. It is completely amazing considering the possibilities of turning imagination to reality. It consists of a lot of machines such as the 3D printer, CNC, laser cutter/engraver and others too. I am in the process of diving into the depths of knowledge of how we could turn one’s imagination to reality. Actually this seems no less than magic. Atleast that is how I feel. So, here I am to share my experience at FABLAB, MESCE. I hope that anyone who goes through this will get an idea about the technology used in a 3D fabrication lab. Well … explore and have fun.
 
 
 # DAY 1 [23-08-2017] 
@@ -220,12 +219,6 @@ The creation of a 3D printed object is achieved using additive processes. In an 
 
 3D printing enables you to produce complex (functional) shapes using less material than traditional manufacturing methods.
 
-## Ultimaker 2+
-
-![Ultimaker 2+ 3D PRINTING MACHINE](/images/3d2.jpg)
-
-Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendly. it’s suitable for a huge variety of applications, from prototypes to customized tools. It’s a great all-around 3D printer that delivers consistent results.
-
 
 ## RHINOCEROS
 
@@ -276,6 +269,35 @@ Cura supports includes the following printers
 6-Click on "Prepare to print"
 
 ![](/images/SHIP.jpg)
+
+## Ultimaker 2+
+
+![Ultimaker 2+ 3D PRINTING MACHINE](/images/3d2.jpg)
+
+Engineered to perform, the Ultimaker 2+ is reliable, efficient, and user-friendly. it’s suitable for a huge variety of applications, from prototypes to customized tools. It’s a great all-around 3D printer that delivers consistent results.
+
+### Preparing a print with Cura
+#### Interface
+
+After you have added the Ultimaker 2+ in Cura, the main interface will become visible. Here is an overview of the interface
+
+![](/images/u1.jpg)
+
+### Slicing the model
+
+To slice a model for the Ultimaker 2+, take the steps described below.
+
+1-Use the Adjustment Tools to position, scale and rotate the object if desired.
+
+2-In the Sidebar, select the nozzle size and material you want to use. Make sure it matches the setup on the printer.
+
+3-Select a profile quality (Draft Print, Fast Print, Normal Quality or High Quality) on the Sidebar.
+
+4-Select “Helper Parts” on the Sidebar. Set the desired strength and enable or disable support and build plate adhesion.
+
+5-To view the result of the selected profile and support settings, go to the “View mode” and select “Layers”.
+
+6-In the bottom right corner, select “Save file” or “Save to USB” to save the print file.
 
 ## MY WORK 
 
@@ -379,13 +401,112 @@ You can also add text in your board all you have to do is click the button that 
 
 #### Step 5: Finished
 
+## ShopBot Machine Setup
+1. Secure your work piece
+
+Use at least 3 clamps to secure the work piece.
+
+* Make sure your clamps will not be in the way of the bit.
+* Make sure your clamps are not hanging over the edge of the workspace as they will get in the way of the machine.
+
+
+![JET WORK BY LASER](/images/k1.jpg)
+
+### 2. Insert the bit
+
+Use the wrenches to remove the bit from the collet.
+
+Place a scrap piece of foam, wood or plastic below the bit in case it falls out of the collet when removing.
+
+
+![JET WORK BY LASER](/images/k2.png)
+
+#### Remove collet (if necessary) and insert new collet.
+
+
+![JET WORK BY LASER](/images/k22.png)
+
+#### Select a bit
+
+![JET WORK BY LASER](/images/k222.png)
+
+End Mill: good for straight cuts and for hogging out a lot of material (ie. for a roughing toolpath)
+Ball-Nose: good for contours, details, and finishing paths
+Profile (such as a V-Carve): good for lettering and sign-making
+
+The larger the bit the better (quicker mill and less likely to break).
+
+### 3. Zero X, Y, and Z axes
+
+Zero X and Y:
+Select the button that looks like a miniature version of the yellow keypad. Use the keypads arrow buttons to set move to the bottom (closest to you) left corner of your material.
+
+
+![JET WORK BY LASER](/images/k3.png)
+
+Select the blue ‘Zero Axis’ button and select the X and Y checkboxes.
+
+![JET WORK BY LASER](/images/k33.png)
+
+Zero Z:
+Set up the place and clamp system.
+Test the connection touching the z zero plate to the bit. The Input 1 on the red Position panel should light up green if the connection is good.
+
+![JET WORK BY LASER](/images/k333.png)
+
+Exit the keypad. Select the button marked Z.
+
+![JET WORK BY LASER](/images/k3333.png)
+
+### 4. Warm up the spindle
+1. Close cover
+
+2. Put key into lock and turn 90 degrees (so key is horizontal).
+
+3. Switch to Full view/command console and type C5 then enter OR from menu select [C]ut → [5] Spindle Warmup Routine
+To switch to full view. Select the ‘?’ light blue Help button (the keypad must be closed.
+
+![JET WORK BY LASER](/images/k4.png)
+
+Select the ‘Switch to FULL’ button
+
+![JET WORK BY LASER](/images/k44.png)
+
+The ShopbotEasy panel will disappear and the below Command Console will appear.
+
+![JET WORK BY LASER](/images/k444.png)
+
+### 5. Dust collection and running cut
+
+1. Check that the silver vacuum hose is connected to shopbot
+
+![JET WORK BY LASER](/images/k5.jpg)
+
+2. Turn on Vacuum
+
+3. Select ‘Cut Part’ green button from the Shopbot EASY red panel. It will let you know that the spindle will start running.
+
+4. Stand by emergency shut off switch in case there are any issues, for example:
+
+* The machine starts to move but the spindle is not turning
+
+ -This is likely because the key is not in its proper position)
+ 
+* The machine cuts into the spoil board.
+
+ -Shallow cuts into the spoil board are fine, but this can be an indication that the zero on your file was not set to the top of the       material.
+ 
+![JET WORK BY LASER](/images/k55.png)
+ 
 ## MY PROJECT 
 
  ![PCB DESIGHN](/images/B612_20170826_153224.jpg)
 
 # DAY 7
 I did A SMALL work in vinyle cutting machine.
+
 ![STICKER](/images/v1.jpg)
+
 ## what is vinyl cutting machine?
 ![VINYLE CUTTER](/images/B612_20170826_134255.jpg)
  A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).
