@@ -496,7 +496,7 @@ The ShopbotEasy panel will disappear and the below Command Console will appear.
 
  -Shallow cuts into the spoil board are fine, but this can be an indication that the zero on your file was not set to the top of the       material.
  
-![JET WORK BY LASER](/images/k55.png)
+![JET WORK BY LASER](/images/k55.jpg)
  
 ## MY PROJECT 
 
