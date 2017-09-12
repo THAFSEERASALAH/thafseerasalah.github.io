@@ -514,10 +514,73 @@ The ShopbotEasy panel will disappear and the below Command Console will appear.
 ## what is vinyl cutting machine?
 
 ![VINYLE CUTTER](/images/B612_20170826_134255.jpg)
+
  A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).
 A symbol / label can be produced using a Vinyl Cutter such as a ‘Sticker Machine’ or a ‘Craftrobo’. These machines are controlled by a computer and operate similar to a printer. Essentially they cut out shapes in adhesive vinyl. The vinyl can then be stuck onto almost any surface.
 A vinyl cutter (or vinyl plotter) is a computer-controlled plotting device with a blade instead of a pen. A vector based design is created in a software program (usually Adobe Illustrator or Corel Draw) and then sent to the cutter where it cuts along the vector paths laid out in the design. The cutter is capable of moving the blade on an X and Y axis over the material, cutting it into any shape imaginable. Since the vinyl material comes in long rolls, projects with significant length like banners or billboards can be easily cut as well. The one major limitation with vinyl cutters is that they can only cut shapes from solid colors of vinyl. A design with multiple colors must have each color cut separately and then layered on top of each other as it is applied to the substrate. Also, since the shapes are cut out of solid colors, photographs and gradients cannot be reproduced with a standalone cutter.
+## STEPS
+### 1-Create your artwork.
+* Simple artwork like text is the easiest artwork to cut with a vinyl cutter. All keyboard fonts are considered vinyl cutter ready vector art (VCRVA or VCVA). All text on all the Windows or Mac included fonts can be typed directly into a vinyl cutting program. This includes fonts like Symbol. Alternatively, you can draw shapes and prepare vector art specifically for vinyl cutting with a graphics program like InkScape, Corel Draw or Adobe Illustrator. Usually, when people want to vinyl cut an image, creating clean vector art is the most time consuming process but yet it is the most important.
+* Creating clean VCRVA is even more time consuming because adequate thought has to go into figuring out what portions of your design you are going to keep and what portions you are going to remove or 'weed' away.
+* If you take a photograph and bring it into a cutting program like Flexi Starter 10 and automatically convert it into vector art you will likely have a mess to clean up. Vector art format differs from bitmap or JPEG art format in that vector art contains lines and arcs to define the picture whereas bitmaps and their equivalents are just a pattern of pixels without any edge definition. Your vinyl cutter can cut lines, arcs and circles but cannot cut a pixel so all artwork must be converted to vector art so your vinyl cutter can cut it properly. It turns out that Flexi interpreted the yellow as 8 shades of yellow and created edges between the different shades of yellow and separated these edges onto different layers. In the end, a simple black, yellow and blue image ended up being 25 different colors and had edges on 25 different layers. Most of the issues associated with vinyl cutting are related to vector art quality.
+![STICKER](/images/J2.webp)
+# 2 
+Aside from simple fonts already in the Windows or Mac operating system, you can purchase additional fonts, or you can purchase artwork that is Vinyl Cutter Ready Vector Art such as the Mega Vector Art Collection. Also, if your artwork is complex, consider sending it out to an outside vendor to have it vectorized for you. There is also software available such as Vector Magic that can do auto-vectorizing and cleanup for you.
+![STICKER](/images/J3.webp)
+# 3
+Bring your artwork into a vinyl cutter cutting program. Once you have created artwork in a program such as Illustrator, Corel Draw or InkScape, you will need to import it into a vinyl cutter program. There are several vinyl cutter programs available on the market. The most common is Flexi Starter 10 (and numerous private label versions of it) followed by programs like SignCut. These programs will lay out your artwork on your vinyl, create weeding lines, create a weeding frame or box, allow you to make copies in rows and columns, scale and rotate, layer the cuts and do several other functions and finally, send the cutting commands to the vinyl cutter.
+![STICKER](/images/J4.webp)
+# 4
+Connect up your vinyl cutter. Different vinyl cutters will have various methods to connect up to your computer. Many if not most these days connect up through the USB port. Once you have established the connection between your cutter and your computer (some drivers may need to be installed) you will need to choose the port or the specific cutter in the sign cutting software to establish the connection between your vinyl cutter and the software.
+* The vinyl cutting industry is more geared to PC's and not Macs. There are systems that are Mac compatible like SignCut but Flexi is not very Mac compatible in its current version. Make sure that your cutter is in the online mode and that the cutter and correct port are selected in the cutting software. This is very important to establish proper communication.
 
+![STICKER](/images/J5.webp)
+
+# 5
+Load your material. Basically, vinyl material is roll fed into a vinyl cutter and hangs off the back side of the cutter on rollers or on a roller bar. Feed the vinyl under the pinch rollers and on top of the roller bar and then release the rollers to hold the vinyl in place.
+![STICKER](/images/J6.webp)
+# 6
+Select and set up setup your blade. Blades usually come in angles from 20° to 60° or so. The larger the blade angle, the sharper the blade, but the quicker the blade will dull. 45° blades strike a good balance between wear and sharpness. 60° blades are sharper and are widely used.
+* Setting up blade depth and pressure or force is critical to getting good cuts. There are basically two parameters that need to be set to achieve good cutting. One is blade depth relative to the carriage and the other is pressure set by the cutter. These parameters vary in importance between machine manufacturers.
+* A good way to set blade tip height is to peel off the vinyl and expose the vinyl backing. Place the blade holder in the down position.
+Some machines have a button control that will allow you to automatically push the carriage to the blade down position while for other carriages you will need to push down on the blade holder manually. Fasten the blade position so that the tip of the blade is slightly penetrating the top surface of the vinyl backing. From here, you will need to set the pressure.
+
+![STICKER](/images/J7.webp)
+
+# 7
+
+Create a small line of text that you can send to the cutter. Set the pressure at a low level and send a cut to the cutter. Chances are that you will not cut fully through the vinyl. Increase the pressure by an increment of your choosing, move the carriage over and cut this same text again. Continue to do this and remember the pressure setting for each cut until you are penetrating the vinyl backing but not going through it.
+![STICKER](/images/J8.webp)
+# 8
+
+Weed all the text you have cut. The one that weeds the best and leaves a slight impression on the vinyl backing is the optimized setting for this vinyl. This process of setting blade tip depth and pressure may need to be repeated each time you change vinyl type as the release liner thicknesses and vinyl characteristics will change from roll to roll and may require different tip depths or cutting pressUres. Usually, once a cutter is setup for vinyl, you can cut that roll and additional rolls as long as it is all the same type of Vinyl.
+
+![STICKER](/images/J9.webp)
+# 9
+
+Cut your artwork. Use the cutting feature of your sign cutting software to send your artwork to the vinyl cutter. Cutting your artwork can take as little as a few seconds to several hours depending on complexity. Most simple signs and decals take just a few minutes.
+![STICKER](/images/J10.webp)
+# 10
+
+Remove your cut vinyl. Advance the vinyl roll with the cutter control panel or release the rollers and pull your vinyl forward. Use rolling scissors to trim your vinyl from the base roll.
+![STICKER](/images/J11.webp)
+# 11
+
+Weed your vinyl. Assuming you did a good job setting up your cutter your artwork should weed relatively easily. Weeding is the process of removing material that you don't want in your graphics. The smaller the features in your graphic, the more challenging weeding can become. Use a weeding pick to carefully pull up and remove the portions of vinyl that you don't want to transfer to your target surface. Strategically placed weeding lines are recommended to make this process easier. It is sometimes very difficult to weed all your unwanted material if it is all connected in one piece. This is also sometimes a time consuming and delicate process.
+![STICKER](/images/J12.webp)
+# 12
+
+Apply transfer tape. With your image weeded, the next step to take will be to transfer your image from the release liner to the target surface. TIP: If you are applying your image to the inside of glass make sure to cut the mirror image so it appears correct when viewed from the outside of the glass. Transfer tape is similar to masking tape but has a different tack for adhering to your vinyl but releasing it on the target surface. Use a semi-transparent transfer tape to apply your graphics. Transfer tape comes in many widths up to about 48". If you have an image that is 6" tall but only have transfer tape that is 4" wide you can lay multiple strips down to cover your image completely and overlap the transfer tape by ¼" or so. You will want to use your squeegee with a felt sleeve to rub the transfer tape on the vinyl to insure good adhesion.
+
+![STICKER](/images/J13.webp)
+# 13
+
+Prepare your target surface. Your target surface should be prepared by cleaning with rubbing alcohol or other similar cleaner to remove grease, oil and dirt. In addition, the surface can be prepared with an application liquid spray that will allow the vinyl to not immediately stick to the target surface. This will allow you to reposition the graphic on the target surface before allowing it to dry and permanently adhere and remove air bubbles. This saves lots of time and avoids having to redo the job.
+
+![STICKER](/images/J14.webp)
+#14
+
+Apply your graphics. Peel the transfer tape away from the release liner and your graphics should come with your transfer tape. If they don't, push the transfer tape back down and use your squeegee again to stick the transfer tape to the decal. Take this decal and apply it to the target surface. From there, use your squeegee with a felt sleeve to smooth your decal on your target surface removing all air bubbles. Allow to dry if you applied application liquid and then peel off your transfer tape.
 ## MY WORK
 
 I did A SMALL work in vinyle cutting machine.
