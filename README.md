@@ -12,11 +12,7 @@ I dont like to say weakness but i like to say scope for improvement that is i wo
 Email ID :thafsikodaniyil@gmail.com
 
 
-[![Facebook](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/facebook-64.png)](https://www.facebook.com/thafseera.salah)
-
-
-
-[![Instagram](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/instagram-64.png)](https://www.instagram.com/thafseerasalah)
+[![Facebook](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/facebook-64.png)](https://www.facebook.com/thafseera.salah)[![Instagram](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/instagram-64.png)](https://www.instagram.com/thafseera_salah)
    
 
 
