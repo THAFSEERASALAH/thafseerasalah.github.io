@@ -11,7 +11,15 @@ I dont like to say weakness but i like to say scope for improvement that is i wo
 
 Email ID :thafsikodaniyil@gmail.com
 
-![fb](http://www.iconninja.com/ico/64/social-network-fb-logo-facebook-8201.ico)(https://www.facebook.com/thafseera.salah)
+
+[![Facebook](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/facebook-64.png)](https://www.facebook.com/thafseera.salah)
+
+
+
+[![Instagram](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/instagram-64.png)](https://www.instagram.com/thafseerasalah)
+   
+
+
 
 
 # WHAT IS FAB LAB
